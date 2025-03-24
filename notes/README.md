@@ -1,6 +1,4 @@
-# react-flow-notes
-
-React Flow 笔记 & 示例
+# notes
 
 - [https://reactflow.dev](https://reactflow.dev)
 - [https://pro-examples.reactflow.dev](https://pro-examples.reactflow.dev)
